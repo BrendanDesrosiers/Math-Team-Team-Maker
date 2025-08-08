@@ -4,7 +4,8 @@ Optimizes the expected score for the team by taking in data about expected score
 ## Instructions: ##
 1. Add players into the csv following the format detailed there
 
-    <img width="855" height="226" alt="image" src="https://github.com/user-attachments/assets/4099a7e8-add9-40bf-9ce1-d7a73a197258" />
+    <img width="329" height="139" alt="image" src="https://github.com/user-attachments/assets/5d1e91f5-758d-4c00-9096-a03a373a1d02" />
+
 
 1. Run the main.py file
 1. The result of the program will be printed in the terminal
