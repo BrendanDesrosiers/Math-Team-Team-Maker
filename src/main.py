@@ -2,7 +2,7 @@ from itertools import combinations
 from players import *
 
 # call the function to read players from csv
-players = read_players_from_csv('data.csv')
+players = read_players_from_csv('src/data.csv')
 
 class Round:
     def __init__(self, players, roundNumber):
